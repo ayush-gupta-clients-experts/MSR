@@ -1,0 +1,2 @@
+#Ignore webmethods inbuilt packages
+Wm*
