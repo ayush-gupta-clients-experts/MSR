@@ -1,2 +1,15 @@
 #Ignore webmethods inbuilt packages
-Wm*
+WmAdmin
+WmART
+WmARTExtDC
+WmAS400
+WmCloud
+WmConsul
+WmFlatFile
+WmGRPC
+WmISExtDC
+WmJSONAPI
+WmPublic
+WmRoot
+WmWin32
+WmXSLT
